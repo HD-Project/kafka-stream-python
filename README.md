@@ -15,7 +15,9 @@ To start Kafka, open another command prompt and run the following command:
 #Step 3: Create Topics 
 
 (optional since the python code could create if it not exist yet)
-You can create with the following code on command prompt
+
+You can create with the following code on command prompt:
+
 .\bin\windows\kafka-topics.bat --create --zookeeper localhost:2181 --replication-factor 1 --partitions 3 --topic products
 .\bin\windows\kafka-topics.bat --create --zookeeper localhost:2181 --replication-factor 1 --partitions 3 --topic users
 .\bin\windows\kafka-topics.bat --create --zookeeper localhost:2181 --replication-factor 1 --partitions 3 --topic carts
