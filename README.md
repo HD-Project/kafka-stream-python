@@ -2,7 +2,7 @@
 
 #Step 1: Install Kafka
 
-First, you need to download and install Apache Kafka on your Windows machine. You can download it from the official Apache Kafka website.
+First, you need to download and install Apache Kafka on your Windows machine. You can also install confluence on docker. Download it from the official Apache Kafka website.
 
 #Step 2: Start Zookeeper and Kafka servers
 
