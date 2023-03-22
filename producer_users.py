@@ -1,4 +1,4 @@
-#kafka stream product
+#kafka stream users
 from confluent_kafka import Producer
 import requests
 import json
